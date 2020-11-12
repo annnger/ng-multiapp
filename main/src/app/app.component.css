@@ -1,0 +1,6 @@
+.app-container {
+  border: 1px solid rgba(0, 0, 0, .5);
+  width: 500px;
+  height: 250px;
+  overflow: scroll;
+}

@@ -1,0 +1,10 @@
+# IDE
+.vscode
+.idea
+
+# Build artifacts
+**/dist
+
+# Misc
+**/node_modules
+**/.DS_Store
